@@ -16,7 +16,7 @@
   background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-  background: #6e93f7;
+  background: #40434e;
   border-radius: 12px;
   transition: all 0.3s ease;
 }
