@@ -586,3 +586,12 @@ footer .text span a:hover {
     color: #141204;
   }
 }
+.a {
+  color: inherit; /* Use the default text color */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s ease; /* Add smooth color transition on hover */
+}
+
+.a:hover {
+  color: red /* Change color on hover */
+}
